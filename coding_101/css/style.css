@@ -1,0 +1,60 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Allerta|Domine:400,700');
+</style>
+
+body {
+  background-color: #527a52;
+  color: white;
+}
+
+h1 {
+  font-family: "Allerta", sans-serif;
+  text-align: center;
+  letter-spacing: 1px;
+  font-size: 50px;
+  color: #e65c00
+}
+
+h2 {
+  font-family: "Domine", serif;
+  text-align: center;
+  font-size: 30px;
+  font-weight: normal;
+  font-style: italic;
+  color: darkgray;
+}
+
+h3 {
+  font-family: "Allerta", sans-serif;
+  text-align: left;
+  font-size: 15px;
+  color: #e65c00
+}
+h4 {
+  font-family: "Allerta", sans-serif;
+  color: darkgray;
+}
+h5 {
+  font-family: "Allerta", sans-serif;
+  text-align: left;
+  font-size: 15px;
+  color: #e65c00
+}
+
+ul
+h6 {
+  font-family: "Allerta", sans-serif;
+  text-align: left;
+  font-size: 15px;
+  color: #e65c00
+}
+h7 {
+  font-family: "Allerta", sans-serif;
+  color: darkgray;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
